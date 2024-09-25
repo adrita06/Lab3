@@ -25,6 +25,4 @@ public class TestNumWordPrinter {
         assertEquals(expectedOutCome,outcome);
     }
 
-
-
 }
