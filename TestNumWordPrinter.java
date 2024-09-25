@@ -7,7 +7,7 @@ public class TestNumWordPrinter {
     public void Test1(){
         NumWordPrinter numWordPrinter = new NumWordPrinter();
         String outcome = numWordPrinter.printWord(13);
-        String expectedOutCome = "LuckyThirteen";
+        String expectedOutCome = "LuckyThirteen";//
         assertEquals(expectedOutCome,outcome);//
     }
     @Test
